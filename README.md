@@ -11,7 +11,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program 1
 1. Import numpy library.
 2. Import lu function from scipy library.
-3. Solve LU decomposition using lu_solve() function.
+3. Solve LU decomposition using lu() function.
 4. print the value.
 
 ## Program 2
